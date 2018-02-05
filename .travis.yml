@@ -1,5 +1,5 @@
 language: objective-c
-osx_image: xcode9.2
+osx_image: xcode9
 xcode_project: test-travis-ci.xcodeproj
 xcode_scheme: test-travis-ci
-xcode_sdk: iphonesimulator11
+xcode_sdk: iphonesimulator10
